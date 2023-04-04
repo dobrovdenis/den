@@ -1,0 +1,60 @@
+body {
+    background-color: #6e482e;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: #4d3319;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section.products {
+    padding: 20px;
+  }
+  
+  aside.specialist {
+    float: right;
+    width: 30%;
+    padding: 20px;
+    background-color: #9a7b4f;
+    margin-left: 20px;
+  }
+  
+  .specialist img {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .specialist h2 {
+    font-size: 1.2em;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .specialist p {
+    font-size: 0.9em;
+    margin: 0;
+    line-height: 1.4;
+  }
